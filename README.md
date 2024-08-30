@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+![Angular](https://img.shields.io/badge/Angular-D6002F?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-5CB230?style=for-the-badge&logo=spring&logoColor=white)
+![Git](https://img.shields.io/badge/git-E84E31?style=for-the-badge&logo=git&logoColor=white)
+
 <!--
 **gloubi-boulga/gloubi-boulga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
