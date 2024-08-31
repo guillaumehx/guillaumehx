@@ -27,6 +27,7 @@
 ### Cool projects I have done
 - 🎹[Piano](https://gloubi-boulga.github.io/piano/)
 - 💣[Minesweeper](https://gloubi-boulga.github.io/minesweeper/)
+- 🕹️[Peer-To-Peer](https://flying-butter-studio.itch.io/peer-to-peer)
 
 ### Statistics
 ![stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gloubi-boulga&theme=nord_dark)
