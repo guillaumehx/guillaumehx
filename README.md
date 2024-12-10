@@ -10,6 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-5CB230?style=for-the-badge&logo=spring&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
 #### CI / CD
 ![Git](https://img.shields.io/badge/git-E84E31?style=for-the-badge&logo=git&logoColor=white)
