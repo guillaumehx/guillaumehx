@@ -26,9 +26,12 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white)
 
 ### Cool projects I have done
+- [<kbd> <br> Piano <br> </kbd>][KBD]
 - 🎹[Piano](https://gloubi-boulga.github.io/piano/)
 - 💣[Minesweeper](https://gloubi-boulga.github.io/minesweeper/)
 - 🕹️[Peer-To-Peer](https://flying-butter-studio.itch.io/peer-to-peer)
+
+[KBD]: [Types/KBD.md](https://gloubi-boulga.github.io/piano/)
 
 ### Statistics
 ![stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gloubi-boulga&theme=nord_dark)
