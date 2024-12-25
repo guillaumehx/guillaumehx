@@ -1,7 +1,4 @@
-## <p align="center">Guillaume Houioux</p>
-#### *<p align="center">Software Developer</p>*
-
----
+#### <p align="center">Guillaume Houioux</p>
 
 ### Technologies I work with
 #### Languages & frameworks
