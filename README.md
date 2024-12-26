@@ -24,7 +24,7 @@
 
 ### Cool projects I have done
 - [<kbd> <br> 🎹 Piano <br> </kbd>](https://guillaumehx.github.io/piano/)
-- [<kbd> <br> 💣 Minesweeper (with @geektortoise) <br> </kbd>](https://guillaumehx.github.io/minesweeper/)
+- [<kbd> <br> 💣 Minesweeper <br> (with [@geektortoise](https://github.com/geektortoise)) </kbd>](https://guillaumehx.github.io/minesweeper/)
 - [<kbd> <br> 🕹️ Peer-To-Peer <br> </kbd>](https://flying-butter-studio.itch.io/peer-to-peer)
 
 ### Statistics
