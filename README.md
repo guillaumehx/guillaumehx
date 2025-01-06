@@ -23,8 +23,8 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white)
 
 ### Cool projects I have done
-- [<kbd> <br> 🎹 Piano <br> </kbd>](https://guillaumehx.github.io/piano/)
 - [<kbd> <br> 💣 Minesweeper <br> </kbd>](https://guillaumehx.github.io/minesweeper/)
+- [<kbd> <br> 🎹 Piano <br> </kbd>](https://guillaumehx.github.io/piano/)
 - [<kbd> <br> 🕹️ Peer-To-Peer <br> </kbd>](https://flying-butter-studio.itch.io/peer-to-peer/)
 
 ### Statistics
