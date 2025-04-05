@@ -1,4 +1,4 @@
-<h1>Hi, my name is Guillaume Houioux ! 🐿️</h1>
+<h1>Hi, my name is Guillaume ! 🐿️</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=300&width=435&lines=Bonjour;Hello;Guten+Tag;Hola;Ol%C3%A1)](https://git.io/typing-svg)
 
